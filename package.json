@@ -1,5 +1,6 @@
 {
   "name": "redux-thunk-dispatch-todosmvc",
+  "description": "An example of redux-thunk-dispatch with react-hot-loader",
   "scripts": {
     "dev": "gulp run"
   },
@@ -7,7 +8,7 @@
     "chokidar": "^1.6.1",
     "express": "^4.14.0",
     "gulp": "^3.9.1",
-    "redux-thunk-dispatch": "file:///Users/liangduan/code/github/redux-thunk-dispatch",
+    "redux-thunk-dispatch": "^1.0.0",
     "socket.io": "^1.3.5",
     "transducers.js": "^0.2.3"
   },
