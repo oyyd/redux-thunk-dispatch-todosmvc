@@ -8,4 +8,4 @@ Make sure you are using node >= 4.
 npm run dev
 ```
 
-Edit files in `static/src` and `lib` for updating frontend and backend code.
+Edit files in `static/src` and `lib` for updating frontend and backend apps. Your browser app will change after saving code without refreshing your web page.
